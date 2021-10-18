@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.32</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>The 12 Days Of Christmas</song>
+    <artist>Straight No Chaser</artist>
+    <album>Christmas Cheers</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\Donatello TMNT PC\Desktop\Christmas Project\12Days\SEQ-SCT12DAYS.MP3</mediaFile>
+    <sequenceDuration>177.815</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="190" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Left Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Right Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Left Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Left Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Right Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Smile Ahh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Smile Up" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Smile Oh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Smile Up" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Smile Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Smile Up" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Smile Oh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Smile Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Smile Ahh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Smile Low" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Smile Oh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Smile Low" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Left Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Right Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Smile Up" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Smile Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Smile Ahh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Right Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 - Left Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Smile Ahh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Smile Low" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Right Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 - Left Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Left Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Right Eye Closed" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Smile Low" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Smile Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Smile Oh" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Left Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 - Right Eye Open" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 - Right Eye Open" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Left Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Right Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Left Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Left Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Right Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Smile Ahh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Smile Up">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Smile Oh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Smile Up">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Smile Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Smile Up">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Smile Oh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Smile Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Smile Ahh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Smile Low">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Smile Oh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Smile Low">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Left Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Right Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Smile Up">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Smile Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Smile Ahh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Right Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 - Left Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Smile Ahh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Smile Low">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Right Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 - Left Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Left Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Right Eye Closed">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Smile Low">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Smile Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Smile Oh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Left Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 - Right Eye Open">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 - Right Eye Open">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
