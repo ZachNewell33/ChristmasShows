@@ -40,19 +40,19 @@ Tree 4 - Smile Ahh
 Tree 4 - Left Eye Open
 Tree 4 - Right Eye Open
 Tree 3 - Smile Oh
-Tree 1 - Outline			CT1 - Outline	green
+Tree 1 - Outline			CT1 - Outline	rgb(128, 255, 128)
 Tree 1 - Smile Low			CT1 - Bottom Lip	red
-Tree 1 - Right Eye Closed			CT1 - Eyes Closed	rgb(128, 255, 255)
-Tree 1 - Left Eye Closed			CT1 - Eyes Closed	rgb(128, 255, 255)
+Tree 1 - Right Eye Closed			CT1 - Eyes Closed	cyan
+Tree 1 - Left Eye Closed			CT1 - Eyes Closed	cyan
 Tree 1 - Smile Up			CT1 - Upper Lip	red
 Tree 1 - Smile Oh			CT1 - Oh	red
 Tree 1 - Smile Mid			CT1 - Mid Lip	red
 Tree 1 - Smile Ahh			CT1 - Ahh	red
 Tree 1 - Right Eye Open			CT1 - Eyes Open	rgb(0, 128, 255)
 Tree 1 - Left Eye Open			CT1 - Eyes Open	rgb(0, 128, 255)
-Tree 2 - Outline			CT2 - Outline	green
-Tree 2 - Left Eye Closed			CT2 - Eyes Closed	rgb(128, 255, 255)
-Tree 2 - Right Eye Closed			CT2 - Eyes Closed	rgb(128, 255, 255)
+Tree 2 - Outline			CT2 - Outline	rgb(128, 255, 128)
+Tree 2 - Left Eye Closed			CT2 - Eyes Closed	cyan
+Tree 2 - Right Eye Closed			CT2 - Eyes Closed	cyan
 Tree 2 - Smile Ahh			CT2 - Ahh	red
 Tree 2 - Smile Low			CT2 - Bottom Lip	red
 Tree 2 - Smile Mid			CT2 - Mid Lip	red
@@ -60,18 +60,18 @@ Tree 2 - Smile Oh			CT2 - Oh	red
 Tree 2 - Smile Up			CT2 - Upper Lip	red
 Tree 2 - Left Eye Open			CT2 - Eyes Open	rgb(0, 128, 255)
 Tree 2 - Right Eye Open			CT2 - Eyes Open	rgb(0, 128, 255)
-Tree 3 - Outline			CT3 - Outline	green
-Tree 3 - Left Eye Closed			CT3 - Eyes Closed	rgb(128, 255, 255)
-Tree 3 - Right Eye Closed			CT3 - Eyes Closed	rgb(128, 255, 255)
+Tree 3 - Outline			CT3 - Outline	rgb(128, 255, 128)
+Tree 3 - Left Eye Closed			CT3 - Eyes Closed	cyan
+Tree 3 - Right Eye Closed			CT3 - Eyes Closed	cyan
 Tree 3 - Smile Ahh			CT3 - Ahh	red
 Tree 3 - Smile Low			CT3 - Bottom Lip	red
 Tree 3 - Smile Mid			CT3 - Mid Lip	red
 Tree 3 - Smile Up			CT3 - Upper Lip	red
 Tree 3 - Right Eye Open			CT3 - Eyes Open	rgb(0, 128, 255)
 Tree 3 - Left Eye Open			CT3 - Eyes Open	rgb(0, 128, 255)
-Tree 4 - Outline			CT4 - Outline	green
-Tree 4 - Left Eye Closed			CT4 - Eyes Closed	rgb(128, 255, 255)
-Tree 4 - Right Eye Closed			CT4 - Eyes Closed	rgb(128, 255, 255)
+Tree 4 - Outline			CT4 - Outline	rgb(128, 255, 128)
+Tree 4 - Left Eye Closed			CT4 - Eyes Closed	cyan
+Tree 4 - Right Eye Closed			CT4 - Eyes Closed	cyan
 Tree 4 - Smile Low			CT4 - Bottom Lip	red
 Tree 4 - Smile Mid			CT4 - Mid Lip	red
 Tree 4 - Smile Oh			CT4 - Oh	red
